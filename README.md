@@ -54,3 +54,6 @@ Create a responsive, interactive dashboard for local business insights including
   "name": "Cake & Co",
   "location": "Mumbai"
 }
+
+#### 1.Used Query parameters for name and location 
+    POST /regenerate-headline?name=''&location=''
